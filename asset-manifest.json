@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/okie-studio.io/static/css/main.731d7fda.css",
+    "main.js": "/okie-studio.io/static/js/main.5ea30863.js",
+    "static/js/453.56ffdec8.chunk.js": "/okie-studio.io/static/js/453.56ffdec8.chunk.js",
+    "static/media/okie.png": "/okie-studio.io/static/media/okie.f8261ef71d74aecf40e6.png",
+    "static/media/wenai.png": "/okie-studio.io/static/media/wenai.86d7bea63995397078ea.png",
+    "static/media/debongshi.png": "/okie-studio.io/static/media/debongshi.5ecdc60d069993998e58.png",
+    "static/media/sindey.png": "/okie-studio.io/static/media/sindey.89684ad7e8290be7cf41.png",
+    "static/media/kraykra.png": "/okie-studio.io/static/media/kraykra.4edf51e9c7d6dde3ecab.png",
+    "static/media/me.png": "/okie-studio.io/static/media/me.a72767519e6bbab95060.png",
+    "static/media/priyanka.png": "/okie-studio.io/static/media/priyanka.c1d2dfa14e507aa3a05b.png",
+    "static/media/jojo.png": "/okie-studio.io/static/media/jojo.c15068a9da9bdda26dcf.png",
+    "static/media/nupaing.png": "/okie-studio.io/static/media/nupaing.4b27e02c9eaf8a177bfb.png",
+    "static/media/emong.png": "/okie-studio.io/static/media/emong.23adeb0caadd9d6e83b2.png",
+    "static/media/singmay.png": "/okie-studio.io/static/media/singmay.5dfc7a98e4121bacedec.png",
+    "static/media/mom.png": "/okie-studio.io/static/media/mom.594627b6ea6f918b86c8.png",
+    "static/media/Evan.png": "/okie-studio.io/static/media/Evan.d9a41fe5d0f79cffe7ad.png",
+    "static/media/anirudaw.png": "/okie-studio.io/static/media/anirudaw.8b5852902ebe30610e59.png",
+    "static/media/mumu.png": "/okie-studio.io/static/media/mumu.a7c8fc990b73a6e57ff2.png",
+    "static/media/pyaw.png": "/okie-studio.io/static/media/pyaw.d7154e566b2422486dcb.png",
+    "static/media/mongsain.png": "/okie-studio.io/static/media/mongsain.2e47613295a40e6a9214.png",
+    "static/media/ukay.png": "/okie-studio.io/static/media/ukay.b60074346b9dc4a405d1.png",
+    "index.html": "/okie-studio.io/index.html",
+    "main.731d7fda.css.map": "/okie-studio.io/static/css/main.731d7fda.css.map",
+    "main.5ea30863.js.map": "/okie-studio.io/static/js/main.5ea30863.js.map",
+    "453.56ffdec8.chunk.js.map": "/okie-studio.io/static/js/453.56ffdec8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.731d7fda.css",
+    "static/js/main.5ea30863.js"
+  ]
+}
