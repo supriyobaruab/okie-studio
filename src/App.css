@@ -1,3 +1,9 @@
+body {
+  padding-top: 56px;
+}
+section {
+  min-height: 100vh;
+}
 .App {
   text-align: center;
 }

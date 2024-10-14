@@ -3,8 +3,8 @@ import React from "react";
 import mom from "./Images/mom.png";
 export default function Mom() {
   return (
-    <div>
-      <h1 className="text-center my-5 fs-1 p-5">Members</h1>
+    <div className="lekha">
+      <h1 className="text-center">Members</h1>
       <div className="d-flex justify-content-center">
         <div className="flip-card">
           <div className="flip-card-inner">

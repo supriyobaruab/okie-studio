@@ -4,8 +4,10 @@
 .members {
   background-color: #181c14;
 }
-.members h1 {
-  font-size: 60px;
+.lekha h1 {
+  padding-top: 80px;
+  padding-bottom: 70px;
+  font-size: 65px;
   color: #ecdfcc;
 }
 .flip-card {

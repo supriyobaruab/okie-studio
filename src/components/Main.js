@@ -1,30 +1,30 @@
 import "./Main.css";
 import group_logo from "./Images/okie.png";
 import React from "react";
-import Mom from "./Mom";
-import Members from "./Members";
+// import Mom from "./Mom";
+// import Members from "./Members";
 
-//importing images
-import wenai from "./Images/wenai.png";
-import sindey from "./Images/sindey.png";
-import kraykra from "./Images/kraykra.png";
-import singmay from "./Images/singmay.png";
-import nupaing from "./Images/nupaing.png";
-import mumu from "./Images/mumu.png";
-import priyanka from "./Images/priyanka.png";
-import mongsain from "./Images/mongsain.png";
-import me from "./Images/me.png";
-import aongkon from "./Images/anirudaw.png";
-import debongshi from "./Images/debongshi.png";
-import jojo from "./Images/jojo.png";
-import emong from "./Images/emong.png";
-import pyaw from "./Images/pyaw.png";
-import evan from "./Images/Evan.png";
-import ukay from "./Images/ukay.png";
-//Done importing images
+// //importing images
+// import wenai from "./Images/wenai.png";
+// import sindey from "./Images/sindey.png";
+// import kraykra from "./Images/kraykra.png";
+// import singmay from "./Images/singmay.png";
+// import nupaing from "./Images/nupaing.png";
+// import mumu from "./Images/mumu.png";
+// import priyanka from "./Images/priyanka.png";
+// import mongsain from "./Images/mongsain.png";
+// import me from "./Images/me.png";
+// import aongkon from "./Images/anirudaw.png";
+// import debongshi from "./Images/debongshi.png";
+// import jojo from "./Images/jojo.png";
+// import emong from "./Images/emong.png";
+// import pyaw from "./Images/pyaw.png";
+// import evan from "./Images/Evan.png";
+// import ukay from "./Images/ukay.png";
+// //Done importing images
 export default function Main() {
   return (
-    <main>
+    <main className="main">
       {/* Home */}
       <section className="home align-content-center" id="first-page">
         <div className="container p-4">
@@ -53,7 +53,7 @@ export default function Main() {
           </div>
         </div>
       </section>
-      <section className="members">
+      {/* <section className="members">
         <Mom />
         <Members
           firstPerson={wenai}
@@ -130,7 +130,7 @@ export default function Main() {
           Ffsubtitle="The follower & The messiest"
           Ffinfo="Has a good initiative drive and good calm personality . Likes to brag about silly things. The one who takes inspo from every thing is surrounded by him but outshines everyone."
         />
-      </section>
+      </section> */}
     </main>
   );
 }
