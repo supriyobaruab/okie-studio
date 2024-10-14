@@ -25,7 +25,7 @@ export default function Mom() {
                   to 16 children without a father. Isn't it concerning? <br />
                   However, all of the children are now searching for their
                   father. <br />
-                  Hope we found our dad <br />
+                  Hope we find our dad <br />
                   someday.
                 </p>
                 <button className="btn">
