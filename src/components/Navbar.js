@@ -29,11 +29,6 @@ export default function Navbar() {
               </li>
               <li className="nav-item">
                 <a className="nav-link fs-5" href="/">
-                  Members
-                </a>
-              </li>
-              <li className="nav-item">
-                <a className="nav-link fs-5" href="/">
                   Gallery
                 </a>
               </li>
